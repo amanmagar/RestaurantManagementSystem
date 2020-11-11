@@ -1,0 +1,10 @@
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\bin\Debug\RMS.exe.config
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\bin\Debug\RMS.exe
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\bin\Debug\RMS.pdb
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.csprojAssemblyReference.cache
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.Form1.resources
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.Properties.Resources.resources
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.exe
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.pdb

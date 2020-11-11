@@ -16,5 +16,10 @@ namespace RMS
         {
             InitializeComponent();
         }
+
+        private void gpAuth_Enter(object sender, EventArgs e)
+        {
+           
+        }
     }
 }
