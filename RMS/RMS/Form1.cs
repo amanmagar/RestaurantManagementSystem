@@ -21,5 +21,17 @@ namespace RMS
         {
            
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MainForm mf = new MainForm();
+            this.Hide();
+            mf.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }

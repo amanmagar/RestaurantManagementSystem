@@ -8,3 +8,8 @@ D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantMana
 D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
 D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.exe
 D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.pdb
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.CompanyInfoForm.resources
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.foodForm.resources
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.userForm.resources
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.MainForm.resources
+D:\ISMT\ISMT 3rd Semester\AProgramming\RestaurantManagementSystem\RestaurantManagementSystem\RMS\RMS\obj\Debug\RMS.categoryForm.resources
